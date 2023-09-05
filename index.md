@@ -5,7 +5,7 @@ title: My Personal Website
 
 # My Personal Website
 
-![Vinil's Image](/assets/img/vinil.jpeg)
+![Vinil's Image](/assets/img/saivinil.jpeg)
 
 This is my personal website, where I share my work, experiences, and skills.
 
