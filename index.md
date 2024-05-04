@@ -23,6 +23,16 @@ I am now open to exploring internship opportunities and networking with like-min
 
 ## Experience
 
+*Data Scientist Intern*  
+Cyient
+Jan 2024 - May 2024 (4 months)
+Developed a statistical method and Streamlit dashboard to analyze and rank root cause drivers in civil aviation engines, improving maintenance efficiency and providing valuable insights.
+
+*Research Intern*  
+AppsTek Corp  
+Feb 2023 - Jul 2023 (6 months)  
+During the internship, I worked on Enhancing the Image Quality Project, supporting the Artificial Intelligence (AI) team to significantly improve the deep learning model prediction accuracy.
+
 *Executive of Center of Excellence for Meta-Tech*  
 Woxsen University  
 Feb 2023 - Present (8 months)
@@ -31,14 +41,7 @@ Feb 2023 - Present (8 months)
 Woxsen University  
 Oct 2022 - Present (1 year)
 
-*Research Intern*  
-AppsTek Corp  
-Feb 2023 - Jul 2023 (6 months)  
-During the internship, I worked on Enhancing the Image Quality Project, supporting the Artificial Intelligence (AI) team to significantly improve the deep learning model prediction accuracy.
 
-*Campus Ambassador*  
-International MUN  
-Jan 2022 - Feb 2022 (2 months)
 
 ## Education
 
@@ -59,15 +62,13 @@ Jan 2022 - Feb 2022 (2 months)
 ## Skills
 
 - Research Skills
-- Azure IoT
-- Artificial Intelligence (AI)
-- Statistics
-- Data Visualization
-- Data Science
-- Data Analytics
-- SQL
-- Analytics
-- Communication
+- Programming Languages: Python, SQL
+- Databases: RDBMS, SQL
+- Cloud Platforms: AWS (Educate, Fundamentals), GCP
+- Machine Learning & AI: Scikit-learn, TensorFlow, PyTorch, OpenCV, NLTK, SpaCy
+- Deep Learning: Transformers, LLM’s
+- Big Data: Hadoop (Basic)
+- Tools & Technologies: Docker, Kubernetes, Streamlit, FastAPI, Git
 
 ## Honors & Awards
 
